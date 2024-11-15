@@ -1,6 +1,7 @@
 ## miniProject05
 
 Students:
+
 Valeria Fernanda Gustín Martínez
 
 Maria Paula Castillo Erazo
@@ -22,9 +23,13 @@ For this project, we selected a dataBsae that lists the most famous songs of 202
 We employed Processing, to create dynamic visual representations of the data. Each song's attributes are depicted through various visual elements:
 
 Happy face: Its color represents the valence of the track, indicating its positivity or negativity. Its smile represents valence, the bigger the smile, the higher the valence.
+
 Drawing of a person dancing: Fast motion in the arms and large size indicates high danceability
+
 Ball in flames: Corresponds to the energy level.
+
 Fractal tree: Its branches expand as the value of danceability grows.
+
 Ball: the faster it moves, the higher the bpm is.
 
 #### Sonification

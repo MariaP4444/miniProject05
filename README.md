@@ -2,6 +2,7 @@
 
 Students:
 Valeria Fernanda Gustín Martínez
+
 Maria Paula Castillo Erazo
 
 Teacher:
@@ -33,4 +34,4 @@ To complement the visualizations, we implemented sonification using Pure Data (P
 - Frequency and volume: controlled given the values of danceability and energy.
 - Piano: the value of valence changes the instrument for the piano note.
 
-[DataBase]:(https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+[DataBase](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
